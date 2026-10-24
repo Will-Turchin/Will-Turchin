@@ -18,5 +18,5 @@ CS student at Colorado School of Mines pursuing a combined BS/MS with a data sci
 - Algorithms and systems programming
 
 ## Projects
-- [ThePipeline](https://github.com/Mines-Formula/ThePipeline) — Processing recorded vehicle telemetry for analysis.
-- [grafana-viz](https://github.com/Mines-Formula/grafana-viz) — Visualizing Formula SAE vehicle data with Grafana.
+- [Portfolio](https://willturchin.com) Website Portfolio
+- [ThePipeline](https://github.com/Mines-Formula/ThePipeline) Processing recorded vehicle telemetry for analysis.
